@@ -1,7 +1,7 @@
 # can-i-have-a-free-tshirt
 [Digital Ocean's Hacktoberfest T-Shirt Giveaway](https://hacktoberfest.digitalocean.com/)  
 
-Thanks.
+Thanks..
 
 ## Contributors
 boka (boka@slickage.com)  
