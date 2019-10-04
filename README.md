@@ -71,3 +71,6 @@ It's freeeeeeeeeeeeeeee
 
 ## 2019 T-shirt
 It's free real estate
+
+## Noo!
+Last year I had the first PR of the year, I hoped I could get one for this year too, but forgot. Guess I can't have them all for me :P.
