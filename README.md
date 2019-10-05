@@ -74,3 +74,6 @@ It's free real estate
 
 ## Noo!
 Last year I had the first PR of the year, I hoped I could get one for this year too, but forgot. Guess I can't have them all for me :P.
+
+## I'm lazy
+I would love a free shirt, but I'm time-poor right now. Thanks for hosting repos like this!
