@@ -77,3 +77,6 @@ Last year I had the first PR of the year, I hoped I could get one for this year 
 
 ## I'm lazy
 I would love a free shirt, but I'm time-poor right now. Thanks for hosting repos like this!
+
+## Hi i really want the T-Shirt too
+Maybe our lovely sponsor, Digital Ocean will give us that really cool Hactoberfest T-Shirt! Please!
