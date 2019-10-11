@@ -80,3 +80,6 @@ I would love a free shirt, but I'm time-poor right now. Thanks for hosting repos
 
 ## Hi i really want the T-Shirt too
 Maybe our lovely sponsor, Digital Ocean will give us that really cool Hactoberfest T-Shirt! Please!
+
+## Is the guris!
+on fire
