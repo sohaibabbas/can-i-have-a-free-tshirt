@@ -83,3 +83,6 @@ Maybe our lovely sponsor, Digital Ocean will give us that really cool Hactoberfe
 
 ## Is the guris!
 on fire
+
+## Hacktober's HERE
+Can I Get A FREE TSHIRT PLEASE
